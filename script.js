@@ -9,5 +9,5 @@ document.addEventListener("DOMContentLoaded" , function(){
         console.log(document.title )
         fetch(privacyLink).then(response => response.json()).then(data => {   })
     }
-
+// test
 })
