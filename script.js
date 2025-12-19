@@ -10,4 +10,5 @@ document.addEventListener("DOMContentLoaded" , function(){
         fetch(privacyLink).then(response => response.json()).then(data => {   })
     }
 // test
+//xyacxa
 })
